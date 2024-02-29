@@ -1,0 +1,15 @@
+{
+  "name": "projecta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^19.1.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
