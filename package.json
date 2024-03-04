@@ -5,8 +5,10 @@
   "main": "main.js",
   "private": true,
   "dependencies": {
+    "canvas": "^2.11.2",
     "dotenv": "^16.0.3",
     "fs": "^0.0.1-security",
+    "fs-extra": "^11.2.0",
     "puppeteer": "^19.1.0"
   },
   "scripts": {
